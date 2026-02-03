@@ -1,8 +1,21 @@
-# Compiled Form Modules
-*.fmx
+# OS
+.DS_Store
+Thumbs.db
 
-# Compiled Menu Modules
-*.mmx
+# Editors
+.vscode/
+.idea/
 
-# Compiled Pre-Linked Libraries
-*.plx
+# Logs
+*.log
+
+# Oracle / SQL Developer
+*.jdb
+*.tmp
+
+# Exported data
+*.csv
+*.xlsx
+
+# APEX exports
+apex_export/
