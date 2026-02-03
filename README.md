@@ -28,7 +28,7 @@ advanced DBMS concepts.
 - Strong PK/FK relationships
 - Referential integrity enforced
 
-![ERD](docs/ERD.png)
+![ERD]("C:\Users\bekza\Downloads\photo_2026-02-03_12-27-31.png")
 
 ---
 
