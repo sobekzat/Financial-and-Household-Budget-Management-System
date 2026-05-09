@@ -1,0 +1,201 @@
+household_id,address,monthly_budget_limit,created_at,location_id
+1,473 Ridge Oak Alley,477,2025-06-24,136
+2,85164 Dahle Lane,328,2018-11-10,142
+3,68916 Hintze Terrace,402,2023-08-21,99
+4,63 Stuart Park,187,2022-09-08,175
+5,03092 Fordem Terrace,354,2023-08-29,26
+6,9 Cordelia Terrace,370,2015-03-15,95
+7,6 Meadow Valley Pass,414,2015-12-10,19
+8,608 Lighthouse Bay Plaza,272,2021-03-10,131
+9,7959 Mifflin Plaza,322,2016-11-21,92
+10,52970 Grayhawk Street,1251,2019-11-18,117
+11,8809 Waubesa Junction,61,2018-10-02,104
+12,630 Schurz Point,163,2022-07-13,169
+13,46 Holy Cross Court,99,2016-05-09,57
+14,085 Garrison Road,156,2024-07-15,117
+15,111 Caliangt Plaza,144,2019-03-14,132
+16,483 Village Green Court,407,2024-02-12,148
+17,31 Memorial Alley,398,2025-02-03,22
+18,47165 Sloan Crossing,405,2018-08-22,90
+19,7690 Thompson Crossing,239,2021-11-20,13
+20,46 Weeping Birch Avenue,168,2022-01-02,74
+21,9158 Donald Road,337,2021-04-04,32
+22,559 Melrose Place,2416,2022-08-19,166
+23,47 Hauk Place,302,2025-04-25,69
+24,5515 Westerfield Park,361,2018-05-08,14
+25,1529 Roth Circle,2667,2021-01-28,125
+26,1 Spohn Lane,255,2021-07-31,83
+27,1 1st Street,132,2023-04-09,171
+28,0214 Scofield Center,256,2020-01-12,134
+29,6 Eastwood Street,211,2019-12-06,123
+30,409 Maywood Plaza,61,2025-01-10,111
+31,5553 Arizona Plaza,346,2017-01-04,88
+32,821 Welch Trail,407,2015-06-25,101
+33,7 Forest Lane,1843,2024-03-24,95
+34,3074 Novick Pass,2861,2023-12-23,187
+35,64551 Algoma Alley,1599,2020-06-29,66
+36,9105 Oriole Center,179,2021-03-03,199
+37,0 North Parkway,264,2023-03-04,135
+38,73 Hermina Terrace,126,2019-04-17,88
+39,07 Hanover Circle,162,2019-12-31,194
+40,37 Schlimgen Trail,492,2020-12-26,173
+41,87842 Golden Leaf Trail,391,2019-11-22,122
+42,58778 Brentwood Junction,357,2015-07-27,123
+43,7044 La Follette Crossing,207,2022-10-04,135
+44,8273 Lerdahl Street,483,2021-10-15,94
+45,989 Prentice Center,3735,2018-11-30,186
+46,4 Spenser Junction,355,2021-01-22,50
+47,646 Tomscot Street,204,2020-03-08,153
+48,899 Chinook Court,157,2020-12-08,60
+49,23 Homewood Parkway,529,2024-08-22,152
+50,2 Leroy Parkway,444,2017-09-21,172
+51,306 Becker Trail,277,2025-01-17,80
+52,55684 Northwestern Plaza,457,2023-12-15,87
+53,4 Claremont Crossing,298,2024-08-04,92
+54,1504 Express Park,416,2020-07-31,169
+55,666 Vernon Junction,815,2023-06-12,160
+56,82 Cordelia Place,50,2015-03-26,187
+57,19806 Del Mar Crossing,280,2024-05-06,6
+58,1113 Loftsgordon Plaza,2868,2019-01-11,104
+59,15406 Service Center,824,2020-09-22,106
+60,433 Troy Avenue,333,2023-11-11,36
+61,6828 4th Hill,452,2018-05-07,146
+62,0 Butternut Lane,3500,2018-12-29,74
+63,5 John Wall Alley,90,2022-07-18,173
+64,2 Springview Terrace,260,2019-09-11,52
+65,917 Heath Junction,210,2022-10-02,172
+66,2061 Mitchell Junction,475,2024-09-14,9
+67,8 Golden Leaf Crossing,425,2021-11-22,77
+68,515 Northview Terrace,92,2024-06-27,185
+69,61536 Petterle Way,104,2015-04-14,48
+70,02 Sheridan Hill,381,2015-11-10,71
+71,0 Kipling Center,191,2019-09-28,155
+72,489 Buena Vista Court,185,2025-03-06,69
+73,393 Kenwood Drive,179,2021-07-06,63
+74,4 Kenwood Court,194,2015-12-01,144
+75,27622 Northwestern Street,295,2022-08-09,57
+76,621 Clarendon Lane,491,2016-04-22,46
+77,2991 Sachs Lane,343,2019-01-09,126
+78,57149 Mcguire Plaza,202,2020-06-05,33
+79,9 Lyons Road,2039,2019-12-12,73
+80,3 Upham Circle,136,2015-02-23,106
+81,8 Weeping Birch Lane,230,2019-07-07,70
+82,76 Hoffman Park,377,2019-06-03,111
+83,932 Fulton Alley,94,2019-08-26,158
+84,5 Grim Place,454,2024-08-21,70
+85,56170 Porter Junction,325,2017-01-06,20
+86,38491 Del Sol Pass,193,2016-06-12,128
+87,3478 Grim Crossing,117,2020-05-05,27
+88,7 Oak Lane,3712,2025-02-17,39
+89,70 Portage Parkway,145,2025-04-15,92
+90,2009 Granby Plaza,2544,2017-07-15,194
+91,802 Killdeer Point,176,2023-11-05,100
+92,3881 Norway Maple Park,293,2023-04-28,162
+93,658 Algoma Plaza,320,2025-03-10,189
+94,40843 Claremont Way,257,2015-09-02,92
+95,2 Shasta Trail,155,2024-03-13,142
+96,41725 Elka Crossing,332,2017-12-29,103
+97,17 Red Cloud Center,378,2023-12-25,91
+98,39 Larry Lane,404,2015-07-27,12
+99,4 Morning Terrace,473,2024-11-13,115
+100,4901 Summer Ridge Circle,67,2020-10-02,13
+101,0358 Talisman Parkway,129,2021-05-28,139
+102,019 Luster Alley,136,2016-08-07,198
+103,93 Charing Cross Lane,425,2016-10-19,187
+104,0430 Kedzie Road,493,2025-03-12,170
+105,2606 Moland Plaza,242,2018-08-06,148
+106,8332 Riverside Pass,3473,2024-08-20,199
+107,18 Hudson Drive,440,2020-12-21,173
+108,9301 Rutledge Lane,102,2024-05-23,72
+109,99 Artisan Center,405,2023-08-03,180
+110,530 Village Junction,3335,2019-02-18,35
+111,2 Dottie Place,70,2022-01-12,153
+112,8 Luster Pass,616,2019-05-28,132
+113,017 Lindbergh Circle,1395,2019-11-21,42
+114,1 Sutteridge Crossing,1876,2022-11-16,145
+115,079 Nelson Trail,386,2020-11-19,55
+116,08 Lukken Circle,500,2022-09-14,126
+117,86 Barnett Drive,364,2019-11-03,105
+118,70308 8th Parkway,283,2018-03-27,37
+119,7 Pawling Center,165,2022-09-09,59
+120,1 Northview Center,159,2021-01-26,139
+121,115 Shelley Drive,524,2024-03-09,13
+122,68 Commercial Parkway,2021,2020-08-31,78
+123,678 Maryland Lane,194,2024-05-13,100
+124,16824 Milwaukee Alley,159,2017-12-03,165
+125,45748 Eggendart Court,255,2016-07-05,174
+126,68019 Warbler Drive,422,2017-01-15,31
+127,4 Kim Junction,301,2019-05-17,161
+128,9 Messerschmidt Court,266,2023-11-22,99
+129,335 Forster Court,85,2022-11-29,158
+130,93706 Fremont Parkway,384,2015-02-28,154
+131,1959 Ludington Point,292,2018-01-21,79
+132,664 Oxford Point,113,2024-11-06,38
+133,69 Dorton Circle,340,2025-10-02,71
+134,2664 Magdeline Point,135,2015-07-06,122
+135,441 Derek Trail,1572,2023-10-26,131
+136,7 Hollow Ridge Drive,382,2024-02-23,11
+137,4192 Heffernan Road,74,2016-06-16,107
+138,40 Susan Point,285,2024-08-08,158
+139,117 Forest Run Road,231,2022-11-18,131
+140,265 Fisk Court,127,2020-05-20,46
+141,77 Ronald Regan Lane,181,2022-05-15,43
+142,231 Esch Hill,314,2024-10-12,95
+143,26 Glacier Hill Terrace,154,2017-06-18,50
+144,1498 Fordem Park,96,2021-10-28,147
+145,309 Goodland Point,235,2015-01-23,135
+146,78 Marquette Crossing,114,2016-08-01,32
+147,7 Utah Terrace,220,2019-10-25,169
+148,7888 Northport Lane,229,2018-05-03,166
+149,96075 Express Circle,421,2015-05-07,69
+150,6 Warbler Court,1876,2022-04-19,154
+151,77254 Maryland Hill,2661,2024-11-28,193
+152,141 Northview Court,2151,2019-02-17,67
+153,3 Hanson Crossing,445,2023-09-09,86
+154,451 Dexter Drive,303,2021-03-31,164
+155,65 Arkansas Pass,56,2022-06-18,136
+156,1 Corscot Avenue,2904,2023-04-08,123
+157,536 Hintze Place,324,2022-09-21,73
+158,37 Mayer Avenue,428,2025-07-08,84
+159,4747 Lotheville Pass,384,2016-05-07,23
+160,9 Farwell Crossing,50,2023-05-12,45
+161,96972 Independence Junction,306,2019-12-13,87
+162,6 Main Junction,326,2017-12-02,123
+163,9 Kenwood Terrace,414,2017-08-13,142
+164,56029 Sherman Trail,200,2022-01-15,73
+165,37 Division Drive,158,2025-05-28,85
+166,271 Esker Terrace,124,2016-09-20,149
+167,3 Erie Alley,301,2025-02-06,145
+168,4 Atwood Drive,318,2021-04-19,29
+169,6945 Glacier Hill Terrace,523,2025-03-16,96
+170,23165 Forest Run Drive,479,2015-03-05,157
+171,6499 Dovetail Junction,1989,2022-09-09,12
+172,0 Old Gate Park,170,2021-03-14,138
+173,33527 Vernon Point,461,2021-07-21,183
+174,3086 Maple Avenue,294,2025-04-27,144
+175,47951 Oxford Hill,493,2024-08-24,189
+176,6772 Browning Court,109,2015-06-24,157
+177,963 Lakewood Gardens Point,3541,2020-10-22,49
+178,7482 Kenwood Court,2204,2024-07-16,26
+179,4 Holy Cross Junction,126,2015-10-26,173
+180,76910 Thackeray Parkway,232,2019-11-29,18
+181,01 Donald Plaza,145,2020-01-31,65
+182,1 Mcguire Court,265,2019-07-18,170
+183,1901 Dryden Court,288,2021-08-31,97
+184,602 Dorton Alley,217,2021-06-07,29
+185,67 Oneill Circle,226,2020-12-08,28
+186,13409 Independence Way,3279,2019-07-08,188
+187,78 Bluestem Street,274,2019-11-16,47
+188,37 Grasskamp Parkway,435,2017-02-02,158
+189,0748 Holy Cross Way,394,2020-02-16,144
+190,75114 Spenser Alley,81,2018-04-05,14
+191,40 Green Ridge Pass,451,2019-10-15,118
+192,9652 Nevada Point,499,2015-07-08,116
+193,400 Corry Drive,248,2020-01-30,56
+194,83328 Kim Place,458,2022-04-10,74
+195,5380 Fieldstone Plaza,471,2023-09-25,144
+196,35 Delaware Hill,50,2018-09-12,16
+197,20198 Shoshone Road,200,2024-06-26,90
+198,6788 Lyons Trail,295,2018-04-17,103
+199,073 Thackeray Court,240,2017-09-02,185
+200,64399 Shoshone Lane,2733,2020-05-31,61

@@ -1,0 +1,201 @@
+expense_id,user_id,category_id,expense_date,expense_type,amount,notes
+1,35,15,2019-12-01,Groceries,270,Weekly grocery haul at Auchan
+2,171,16,2019-03-26,Clothing,866,Shoes for the gym
+3,87,11,2017-06-01,Utilities,362,Water and gas statement
+4,82,3,2023-04-19,Gasoline,193,Full tank for the road trip
+5,172,12,2020-11-07,Insurance,856,Family health insurance premium
+6,192,4,2018-06-21,Gasoline,461,Full tank for the road trip
+7,79,1,2015-09-01,Rent,1966,Mortgage payment for May
+8,186,8,2015-03-23,Clothing,606,New pair of jeans
+9,29,4,2024-01-31,Gasoline,255,"Gas refill, premium 95 octane"
+10,179,1,2017-03-24,Groceries,416,Ingredients for dinner tonight
+11,159,2,2019-10-09,Utilities,363,Monthly internet payment
+12,51,14,2023-01-18,Clothing,566,Shoes for the gym
+13,185,16,2024-06-30,Groceries,427,Weekly grocery haul at Auchan
+14,34,9,2020-10-21,Entertainment,29,New console game purchase
+15,34,7,2020-06-06,Insurance,994,Home insurance
+16,144,16,2025-07-07,Groceries,593,Ingredients for dinner tonight
+17,90,9,2020-01-11,Clothing,902,Buying a winter jacket
+18,175,19,2022-01-21,Entertainment,217,New console game purchase
+19,8,17,2024-09-22,Rent,1473,Room rental fee
+20,123,19,2024-08-06,Gasoline,238,Full tank for the road trip
+21,22,8,2016-07-20,Rent,1221,Apartment rent payment
+22,162,2,2018-05-16,Groceries,676,Stocking up at the local supermarket
+23,22,13,2023-10-24,Rent,1280,Apartment rent payment
+24,5,5,2016-12-19,Clothing,491,New pair of jeans
+25,150,5,2022-06-23,Rent,1890,Room rental fee
+26,50,17,2022-01-15,Clothing,946,Shoes for the gym
+27,155,8,2023-01-22,Gasoline,69,"Gas refill, premium 95 octane"
+28,133,6,2016-10-08,Rent,1387,Room rental fee
+29,19,11,2019-09-20,Groceries,622,Weekly grocery haul at Auchan
+30,39,5,2017-01-11,Restaurant,272,Pizza delivery
+31,75,14,2022-02-19,Groceries,686,Bread and milk run
+32,106,10,2025-04-15,Insurance,744,Home insurance
+33,74,2,2023-11-17,Utilities,338,Monthly internet payment
+34,90,12,2017-12-13,Insurance,626,Annual car insurance
+35,2,1,2022-01-01,Restaurant,77,Dinner with colleagues
+36,50,7,2021-12-05,Restaurant,83,Lunch at the new cafe
+37,105,6,2019-04-22,Insurance,944,Family health insurance premium
+38,144,19,2024-03-13,Entertainment,416,Concert tickets
+39,97,1,2018-12-17,Gasoline,383,Full tank for the road trip
+40,3,20,2023-10-14,Utilities,381,Electricity bill for last month
+41,125,9,2022-04-28,Clothing,999,Dress for the event
+42,35,1,2022-02-25,Gasoline,454,Fuel for work commuting
+43,166,17,2016-01-11,Groceries,219,Weekly grocery haul at Auchan
+44,184,7,2023-05-13,Restaurant,274,Lunch at the new cafe
+45,192,13,2017-01-21,Gasoline,137,Full tank for the road trip
+46,103,6,2023-12-10,Clothing,460,Buying a winter jacket
+47,39,12,2020-02-23,Restaurant,319,Dinner with colleagues
+48,71,19,2025-09-26,Utilities,372,Monthly internet payment
+49,42,16,2023-04-15,Utilities,303,Monthly internet payment
+50,41,16,2022-05-07,Clothing,438,Shoes for the gym
+51,137,20,2020-06-21,Groceries,752,Ingredients for dinner tonight
+52,96,3,2025-06-12,Insurance,705,Annual car insurance
+53,81,20,2021-01-02,Gasoline,59,Fuel for work commuting
+54,44,9,2025-04-05,Entertainment,311,Concert tickets
+55,139,1,2017-11-09,Rent,838,Apartment rent payment
+56,172,4,2015-09-25,Rent,1062,Room rental fee
+57,187,1,2025-04-19,Gasoline,196,Full tank for the road trip
+58,70,2,2025-03-08,Clothing,148,Buying a winter jacket
+59,130,20,2024-07-07,Gasoline,459,Full tank for the road trip
+60,132,6,2024-11-20,Groceries,623,Weekly grocery haul at Auchan
+61,132,13,2024-05-19,Clothing,522,New pair of jeans
+62,168,19,2019-08-10,Restaurant,356,Dinner with colleagues
+63,97,8,2022-04-28,Groceries,288,Bread and milk run
+64,51,9,2023-09-10,Gasoline,188,"Gas refill, premium 95 octane"
+65,85,18,2023-05-02,Restaurant,295,Dinner with colleagues
+66,200,1,2015-04-15,Groceries,419,Stocking up at the local supermarket
+67,138,9,2016-09-16,Utilities,386,Monthly internet payment
+68,154,1,2017-11-08,Clothing,778,Dress for the event
+69,117,14,2020-05-14,Entertainment,110,Netflix subscription renewal
+70,77,7,2024-08-18,Utilities,344,Water and gas statement
+71,44,1,2021-12-10,Insurance,481,Family health insurance premium
+72,64,13,2018-01-19,Groceries,793,Bread and milk run
+73,144,5,2020-03-03,Clothing,161,Shoes for the gym
+74,122,6,2023-08-17,Insurance,192,Family health insurance premium
+75,88,1,2021-04-01,Rent,972,Mortgage payment for May
+76,20,9,2024-02-17,Groceries,685,Stocking up at the local supermarket
+77,74,14,2024-10-19,Rent,998,Room rental fee
+78,88,7,2015-03-11,Utilities,299,Electricity bill for last month
+79,58,3,2018-08-18,Rent,810,Apartment rent payment
+80,135,9,2023-07-26,Groceries,356,Ingredients for dinner tonight
+81,60,6,2021-09-16,Rent,1789,Room rental fee
+82,99,20,2019-01-15,Restaurant,429,Lunch at the new cafe
+83,155,17,2022-07-22,Gasoline,412,Full tank for the road trip
+84,124,15,2015-09-08,Clothing,835,Shoes for the gym
+85,12,11,2022-07-20,Rent,1574,Mortgage payment for May
+86,145,5,2025-10-23,Gasoline,391,Full tank for the road trip
+87,195,9,2021-03-22,Utilities,184,Monthly internet payment
+88,192,3,2024-10-03,Rent,1106,Apartment rent payment
+89,169,15,2021-03-19,Groceries,351,Weekly grocery haul at Auchan
+90,171,8,2021-06-16,Restaurant,217,Coffee and quick breakfast
+91,144,11,2020-10-11,Rent,1821,Mortgage payment for May
+92,41,10,2023-09-15,Rent,1474,Mortgage payment for May
+93,132,18,2019-07-10,Groceries,462,Bread and milk run
+94,195,6,2020-12-23,Gasoline,254,Fuel for work commuting
+95,152,5,2020-07-28,Clothing,99,Dress for the event
+96,125,16,2015-02-14,Utilities,160,Monthly internet payment
+97,26,4,2016-02-15,Entertainment,467,New console game purchase
+98,55,9,2023-09-11,Insurance,478,Annual car insurance
+99,154,18,2018-08-06,Groceries,597,Stocking up at the local supermarket
+100,137,11,2016-11-28,Rent,1068,Mortgage payment for May
+101,170,3,2019-04-05,Utilities,242,Monthly internet payment
+102,47,15,2017-10-07,Groceries,725,Ingredients for dinner tonight
+103,45,11,2019-07-04,Restaurant,74,Lunch at the new cafe
+104,11,15,2019-09-28,Gasoline,317,"Gas refill, premium 95 octane"
+105,175,4,2025-11-06,Restaurant,202,Dinner with colleagues
+106,51,10,2019-09-10,Rent,1460,Room rental fee
+107,33,1,2019-08-20,Insurance,744,Family health insurance premium
+108,109,10,2019-11-29,Entertainment,82,Movie tickets for the premiere
+109,45,8,2016-09-24,Gasoline,448,"Gas refill, premium 95 octane"
+110,79,16,2016-05-25,Utilities,274,Electricity bill for last month
+111,98,8,2022-12-31,Entertainment,331,Netflix subscription renewal
+112,54,19,2021-04-15,Groceries,718,Stocking up at the local supermarket
+113,164,20,2022-07-11,Utilities,234,Water and gas statement
+114,9,9,2020-12-24,Clothing,523,Dress for the event
+115,151,10,2015-04-30,Restaurant,255,Lunch at the new cafe
+116,166,14,2022-12-27,Clothing,835,New pair of jeans
+117,82,3,2025-10-11,Utilities,349,Water and gas statement
+118,132,6,2021-02-28,Rent,1418,Room rental fee
+119,43,7,2023-10-17,Groceries,309,Bread and milk run
+120,198,10,2017-08-02,Insurance,320,Annual car insurance
+121,161,15,2020-07-08,Groceries,270,Bread and milk run
+122,102,12,2015-04-27,Restaurant,121,Coffee and quick breakfast
+123,102,8,2018-07-27,Restaurant,427,Pizza delivery
+124,61,10,2025-03-22,Entertainment,416,New console game purchase
+125,145,9,2021-03-11,Entertainment,396,Netflix subscription renewal
+126,144,14,2020-10-11,Utilities,310,Monthly internet payment
+127,45,4,2024-02-05,Groceries,775,Weekly grocery haul at Auchan
+128,160,5,2017-10-07,Gasoline,478,"Gas refill, premium 95 octane"
+129,26,15,2015-07-24,Groceries,445,Bread and milk run
+130,165,1,2025-08-10,Insurance,596,Family health insurance premium
+131,153,20,2016-05-28,Gasoline,211,"Gas refill, premium 95 octane"
+132,2,5,2024-07-03,Gasoline,245,"Gas refill, premium 95 octane"
+133,6,13,2019-08-14,Restaurant,481,Lunch at the new cafe
+134,187,13,2020-06-29,Groceries,738,Weekly grocery haul at Auchan
+135,119,8,2017-06-08,Insurance,965,Annual car insurance
+136,142,15,2018-09-06,Gasoline,54,"Gas refill, premium 95 octane"
+137,16,12,2015-11-13,Entertainment,267,Netflix subscription renewal
+138,149,12,2015-09-23,Utilities,189,Water and gas statement
+139,79,15,2015-05-26,Restaurant,298,Pizza delivery
+140,130,12,2022-09-18,Gasoline,479,"Gas refill, premium 95 octane"
+141,121,6,2022-01-04,Clothing,453,Dress for the event
+142,13,6,2021-07-28,Insurance,496,Home insurance
+143,176,12,2016-04-24,Groceries,603,Stocking up at the local supermarket
+144,71,7,2024-01-26,Rent,1332,Apartment rent payment
+145,31,15,2025-10-20,Clothing,653,Buying a winter jacket
+146,196,12,2017-11-05,Utilities,178,Water and gas statement
+147,36,3,2023-08-12,Rent,1750,Room rental fee
+148,32,5,2025-06-20,Utilities,241,Monthly internet payment
+149,88,8,2023-01-03,Insurance,397,Home insurance
+150,105,3,2017-11-22,Groceries,497,Weekly grocery haul at Auchan
+151,113,7,2023-02-14,Groceries,750,Weekly grocery haul at Auchan
+152,117,17,2015-01-03,Clothing,425,Shoes for the gym
+153,69,19,2016-01-27,Rent,1156,Room rental fee
+154,122,4,2021-01-14,Utilities,240,Water and gas statement
+155,152,13,2020-05-12,Utilities,205,Water and gas statement
+156,187,3,2022-11-28,Restaurant,346,Lunch at the new cafe
+157,3,5,2022-06-20,Entertainment,443,New console game purchase
+158,176,16,2022-02-27,Groceries,288,Stocking up at the local supermarket
+159,92,20,2025-07-19,Gasoline,178,Full tank for the road trip
+160,45,15,2022-05-11,Rent,919,Mortgage payment for May
+161,156,14,2021-10-03,Utilities,153,Monthly internet payment
+162,116,4,2016-07-10,Gasoline,468,Full tank for the road trip
+163,167,4,2025-10-17,Clothing,952,Shoes for the gym
+164,113,17,2020-12-21,Entertainment,212,Movie tickets for the premiere
+165,24,14,2016-10-19,Entertainment,358,New console game purchase
+166,166,20,2019-02-25,Rent,1598,Room rental fee
+167,135,5,2024-08-29,Groceries,454,Weekly grocery haul at Auchan
+168,176,11,2016-01-24,Entertainment,260,New console game purchase
+169,180,8,2020-07-09,Groceries,539,Stocking up at the local supermarket
+170,63,17,2021-11-27,Restaurant,113,Dinner with colleagues
+171,131,2,2017-01-07,Utilities,169,Monthly internet payment
+172,95,12,2024-03-16,Groceries,473,Weekly grocery haul at Auchan
+173,184,5,2022-09-21,Rent,809,Apartment rent payment
+174,25,16,2019-09-22,Rent,1340,Room rental fee
+175,12,5,2015-03-06,Rent,1940,Room rental fee
+176,105,18,2021-05-25,Restaurant,281,Lunch at the new cafe
+177,150,16,2018-10-25,Insurance,230,Home insurance
+178,89,17,2022-06-27,Restaurant,58,Lunch at the new cafe
+179,157,12,2021-07-03,Gasoline,245,"Gas refill, premium 95 octane"
+180,157,11,2019-06-10,Gasoline,313,Full tank for the road trip
+181,121,16,2016-02-10,Clothing,187,Buying a winter jacket
+182,10,10,2015-12-07,Restaurant,427,Lunch at the new cafe
+183,114,10,2024-06-19,Restaurant,474,Dinner with colleagues
+184,102,3,2015-06-20,Clothing,625,Shoes for the gym
+185,92,8,2019-03-08,Utilities,373,Water and gas statement
+186,110,18,2017-05-03,Clothing,860,Buying a winter jacket
+187,51,4,2019-10-13,Restaurant,387,Lunch at the new cafe
+188,46,8,2019-09-16,Entertainment,175,New console game purchase
+189,9,4,2019-03-10,Rent,1382,Mortgage payment for May
+190,185,19,2019-11-09,Utilities,308,Electricity bill for last month
+191,84,5,2018-10-28,Clothing,707,New pair of jeans
+192,20,18,2021-10-26,Groceries,368,Stocking up at the local supermarket
+193,73,7,2017-09-05,Utilities,157,Electricity bill for last month
+194,61,11,2023-01-17,Rent,1872,Apartment rent payment
+195,174,3,2020-07-17,Clothing,564,New pair of jeans
+196,24,10,2021-11-23,Insurance,736,Annual car insurance
+197,11,4,2020-10-18,Clothing,179,Buying a winter jacket
+198,132,6,2020-03-04,Gasoline,335,Full tank for the road trip
+199,68,4,2020-12-17,Insurance,524,Family health insurance premium
+200,57,7,2016-04-27,Insurance,222,Family health insurance premium

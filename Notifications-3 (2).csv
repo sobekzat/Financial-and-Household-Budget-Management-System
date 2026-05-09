@@ -1,0 +1,201 @@
+notification_id,user_id,type,message,created_at,is_read
+1,85,Info,Your new financial statement is now available for download.,2024-06-04,true
+2,194,Alert,Unauthorized transaction detected on your main checking account.,2015-08-24,true
+3,27,Info,Your new financial statement is now available for download.,2020-08-16,false
+4,59,Alert,Potential Fraud: Please check recent large transactions immediately.,2021-03-07,false
+5,185,Warning,High activity detected in your Travel spending this period.,2023-10-01,true
+6,85,Alert,Potential Fraud: Please check recent large transactions immediately.,2022-09-17,true
+7,94,Info,Your transfer to a family member was completed successfully.,2023-02-02,true
+8,119,Alert,Budget Limit Exceeded for Groceries category this month.,2024-12-08,false
+9,88,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2022-09-28,false
+10,109,Info,Your transfer to a family member was completed successfully.,2023-11-16,false
+11,23,Alert,Unauthorized transaction detected on your main checking account.,2017-09-06,true
+12,170,Alert,Unauthorized transaction detected on your main checking account.,2025-08-06,false
+13,47,Info,Your transfer to a family member was completed successfully.,2017-03-18,false
+14,71,Warning,Reminder: Your Utilities payment is due this week.,2016-01-29,true
+15,76,Warning,Your spending in the Food category is dangerously close to the limit.,2015-01-21,true
+16,132,Warning,High activity detected in your Travel spending this period.,2025-08-18,false
+17,146,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2024-06-30,false
+18,21,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2021-06-19,true
+19,138,Alert,Unauthorized transaction detected on your main checking account.,2019-07-14,false
+20,198,Alert,Budget Limit Exceeded for Groceries category this month.,2022-01-31,true
+21,172,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2017-07-31,true
+22,149,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2024-04-27,true
+23,118,Warning,High activity detected in your Travel spending this period.,2022-09-20,true
+24,56,Alert,Unauthorized transaction detected on your main checking account.,2022-03-14,false
+25,187,Warning,Reminder: Your Utilities payment is due this week.,2020-09-13,false
+26,191,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2017-02-11,false
+27,48,Alert,Unauthorized transaction detected on your main checking account.,2020-08-15,false
+28,98,Warning,Warning: Your trial subscription ends tomorrow.,2025-10-27,false
+29,10,Alert,Budget Limit Exceeded for Groceries category this month.,2017-08-20,false
+30,181,Alert,Unauthorized transaction detected on your main checking account.,2023-09-11,true
+31,163,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2016-07-09,true
+32,187,Warning,Warning: Your trial subscription ends tomorrow.,2019-04-21,true
+33,20,Warning,Your spending in the Food category is dangerously close to the limit.,2018-02-16,true
+34,6,Info,Your transfer to a family member was completed successfully.,2016-01-24,true
+35,63,Warning,Warning: Your trial subscription ends tomorrow.,2015-12-08,true
+36,180,Info,Feature update: You can now track transfers between your accounts.,2022-06-20,true
+37,154,Info,Your transfer to a family member was completed successfully.,2025-03-01,true
+38,141,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2021-12-19,true
+39,121,Info,Feature update: You can now track transfers between your accounts.,2024-09-13,true
+40,38,Info,Your new financial statement is now available for download.,2015-01-25,true
+41,129,Alert,Potential Fraud: Please check recent large transactions immediately.,2019-08-06,true
+42,191,Alert,Budget Limit Exceeded for Groceries category this month.,2015-05-26,false
+43,76,Info,Your transfer to a family member was completed successfully.,2016-03-06,false
+44,165,Warning,Reminder: Your Utilities payment is due this week.,2021-02-10,true
+45,188,Info,Your transfer to a family member was completed successfully.,2022-05-14,false
+46,139,Warning,Reminder: Your Rent payment is due this week.,2023-10-23,true
+47,104,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2018-04-24,true
+48,177,Alert,Unauthorized transaction detected on your main checking account.,2016-09-08,true
+49,108,Alert,Potential Fraud: Please check recent large transactions immediately.,2022-04-11,false
+50,170,Warning,Your payment card is set to expire next month. Please update details.,2022-03-06,true
+51,170,Alert,Budget Limit Exceeded for Groceries category this month.,2021-07-05,false
+52,10,Warning,Your payment card is set to expire next month. Please update details.,2017-10-17,false
+53,2,Info,Your new financial statement is now available for download.,2024-10-19,true
+54,183,Warning,Reminder: Your Mortgage payment is due this week.,2015-07-27,true
+55,38,Warning,Reminder: Your Utilities payment is due this week.,2019-10-28,false
+56,152,Alert,Budget Limit Exceeded for Groceries category this month.,2022-08-24,true
+57,163,Warning,Your payment card is set to expire next month. Please update details.,2018-01-17,true
+58,82,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2022-03-31,false
+59,17,Alert,Potential Fraud: Please check recent large transactions immediately.,2024-05-04,true
+60,105,Info,Welcome to the new month! All budget limits have been successfully reset.,2018-12-04,true
+61,125,Alert,Unauthorized transaction detected on your main checking account.,2021-03-30,true
+62,30,Info,Your transfer to a family member was completed successfully.,2016-01-15,false
+63,6,Alert,Unauthorized transaction detected on your main checking account.,2018-06-12,true
+64,77,Warning,Your spending in the Food category is dangerously close to the limit.,2021-11-10,false
+65,112,Info,Your transfer to a family member was completed successfully.,2018-12-07,true
+66,198,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2025-04-06,false
+67,183,Info,Your new financial statement is now available for download.,2019-06-21,true
+68,154,Alert,Unauthorized transaction detected on your main checking account.,2015-06-02,false
+69,196,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2023-11-06,true
+70,93,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2016-04-09,true
+71,170,Alert,Budget Limit Exceeded for Groceries category this month.,2015-07-06,true
+72,135,Warning,High activity detected in your Travel spending this period.,2022-06-10,true
+73,62,Info,Feature update: You can now track transfers between your accounts.,2020-01-06,false
+74,182,Warning,Your spending in the Food category is dangerously close to the limit.,2021-09-06,false
+75,148,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2023-06-10,false
+76,54,Info,Feature update: You can now track transfers between your accounts.,2016-03-31,true
+77,83,Warning,High activity detected in your Travel spending this period.,2016-08-06,false
+78,141,Info,Feature update: You can now track transfers between your accounts.,2017-03-01,false
+79,98,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2020-06-04,false
+80,109,Warning,Warning: Your trial subscription ends tomorrow.,2017-05-03,true
+81,175,Info,Your transfer to a family member was completed successfully.,2024-10-02,true
+82,157,Warning,Warning: Your trial subscription ends tomorrow.,2024-01-11,false
+83,137,Warning,High activity detected in your Travel spending this period.,2022-11-05,false
+84,84,Warning,High activity detected in your Travel spending this period.,2025-03-09,true
+85,86,Warning,Your spending in the Food category is dangerously close to the limit.,2024-09-24,true
+86,162,Info,Your new financial statement is now available for download.,2021-02-24,true
+87,194,Alert,Budget Limit Exceeded for Groceries category this month.,2022-09-18,true
+88,182,Warning,Your payment card is set to expire next month. Please update details.,2023-07-25,true
+89,93,Warning,High activity detected in your Travel spending this period.,2019-03-13,true
+90,140,Warning,Your payment card is set to expire next month. Please update details.,2021-01-12,true
+91,46,Info,Feature update: You can now track transfers between your accounts.,2025-08-18,true
+92,149,Alert,Budget Limit Exceeded for Groceries category this month.,2024-01-29,false
+93,106,Warning,Your payment card is set to expire next month. Please update details.,2020-10-02,true
+94,74,Warning,High activity detected in your Travel spending this period.,2016-03-27,true
+95,118,Warning,Your spending in the Food category is dangerously close to the limit.,2015-12-02,true
+96,54,Info,Feature update: You can now track transfers between your accounts.,2019-06-18,false
+97,169,Warning,High activity detected in your Travel spending this period.,2024-10-19,true
+98,120,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2016-03-08,true
+99,154,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2019-04-28,true
+100,153,Warning,Your spending in the Food category is dangerously close to the limit.,2020-02-13,true
+101,78,Alert,Budget Limit Exceeded for Groceries category this month.,2019-07-20,true
+102,95,Info,Your transfer to a family member was completed successfully.,2020-01-30,true
+103,138,Warning,Your spending in the Food category is dangerously close to the limit.,2022-06-12,true
+104,187,Info,Your new financial statement is now available for download.,2019-04-06,false
+105,132,Alert,Unauthorized transaction detected on your main checking account.,2019-01-22,false
+106,116,Info,Feature update: You can now track transfers between your accounts.,2017-08-09,true
+107,14,Info,Feature update: You can now track transfers between your accounts.,2018-12-21,true
+108,17,Info,Your new financial statement is now available for download.,2019-03-05,false
+109,107,Warning,Your payment card is set to expire next month. Please update details.,2025-09-21,false
+110,92,Info,Your new financial statement is now available for download.,2021-05-15,false
+111,33,Warning,Warning: Your trial subscription ends tomorrow.,2025-09-13,true
+112,110,Warning,Reminder: Your Mortgage payment is due this week.,2023-06-11,false
+113,33,Warning,Warning: Your trial subscription ends tomorrow.,2016-07-28,false
+114,98,Warning,Reminder: Your Utilities payment is due this week.,2017-03-17,false
+115,106,Warning,Your payment card is set to expire next month. Please update details.,2016-02-03,true
+116,99,Warning,Your payment card is set to expire next month. Please update details.,2020-11-12,false
+117,179,Warning,Reminder: Your Mortgage payment is due this week.,2023-03-18,true
+118,11,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2015-06-09,false
+119,150,Info,A new income deposit has been successfully processed.,2018-09-29,true
+120,127,Warning,Your payment card is set to expire next month. Please update details.,2021-03-06,true
+121,159,Warning,Warning: Your trial subscription ends tomorrow.,2017-03-29,false
+122,131,Info,Feature update: You can now track transfers between your accounts.,2024-09-07,false
+123,179,Alert,Potential Fraud: Please check recent large transactions immediately.,2021-11-07,false
+124,69,Info,Your transfer to a family member was completed successfully.,2022-02-28,true
+125,3,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2025-08-16,true
+126,155,Info,Your transfer to a family member was completed successfully.,2023-04-17,false
+127,60,Warning,Reminder: Your Utilities payment is due this week.,2023-10-18,true
+128,91,Alert,Potential Fraud: Please check recent large transactions immediately.,2019-10-06,true
+129,83,Info,Feature update: You can now track transfers between your accounts.,2018-07-28,false
+130,91,Warning,Your payment card is set to expire next month. Please update details.,2020-09-15,true
+131,55,Alert,Potential Fraud: Please check recent large transactions immediately.,2016-04-18,true
+132,24,Warning,Your payment card is set to expire next month. Please update details.,2016-05-28,false
+133,133,Info,Your new financial statement is now available for download.,2015-09-03,false
+134,47,Warning,High activity detected in your Travel spending this period.,2024-06-09,false
+135,157,Warning,Your payment card is set to expire next month. Please update details.,2025-09-12,false
+136,129,Warning,Reminder: Your Rent payment is due this week.,2016-01-30,true
+137,135,Info,Welcome to the new month! All budget limits have been successfully reset.,2018-03-21,false
+138,128,Info,Your transfer to a family member was completed successfully.,2023-05-06,false
+139,69,Warning,Warning: Your trial subscription ends tomorrow.,2025-05-17,false
+140,71,Warning,Your spending in the Food category is dangerously close to the limit.,2017-07-15,true
+141,62,Alert,Budget Limit Exceeded for Groceries category this month.,2015-06-06,false
+142,83,Warning,Warning: Your trial subscription ends tomorrow.,2024-01-28,true
+143,141,Info,Feature update: You can now track transfers between your accounts.,2024-08-26,false
+144,23,Info,Your transfer to a family member was completed successfully.,2021-04-07,false
+145,157,Info,Your new financial statement is now available for download.,2022-01-22,true
+146,185,Alert,Potential Fraud: Please check recent large transactions immediately.,2020-10-30,false
+147,22,Info,Feature update: You can now track transfers between your accounts.,2024-10-23,true
+148,181,Alert,Budget Limit Exceeded for Groceries category this month.,2023-12-12,true
+149,194,Alert,Budget Limit Exceeded for Groceries category this month.,2018-06-18,false
+150,89,Info,A new income deposit has been successfully processed.,2024-05-22,false
+151,160,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2022-01-27,true
+152,84,Alert,Budget Limit Exceeded for Groceries category this month.,2016-07-16,true
+153,178,Warning,Your spending in the Food category is dangerously close to the limit.,2015-05-29,false
+154,61,Warning,High activity detected in your Travel spending this period.,2018-08-11,true
+155,197,Info,A new income deposit has been successfully processed.,2019-07-29,true
+156,115,Info,Your transfer to a family member was completed successfully.,2019-02-18,true
+157,188,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2021-04-28,false
+158,23,Warning,Your spending in the Food category is dangerously close to the limit.,2024-04-03,false
+159,46,Warning,Your payment card is set to expire next month. Please update details.,2019-02-14,false
+160,64,Alert,Unauthorized transaction detected on your main checking account.,2024-02-18,false
+161,92,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2023-01-20,false
+162,144,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2023-09-18,false
+163,41,Warning,Reminder: Your Utilities payment is due this week.,2016-04-08,false
+164,52,Alert,Unauthorized transaction detected on your main checking account.,2023-07-21,true
+165,98,Info,Your transfer to a family member was completed successfully.,2020-12-17,true
+166,136,Info,Feature update: You can now track transfers between your accounts.,2018-07-23,true
+167,16,Alert,Budget Limit Exceeded for Groceries category this month.,2024-07-31,true
+168,90,Alert,Unauthorized transaction detected on your main checking account.,2019-02-05,true
+169,136,Info,Feature update: You can now track transfers between your accounts.,2025-08-03,true
+170,85,Warning,Your spending in the Food category is dangerously close to the limit.,2021-01-12,false
+171,64,Alert,Unauthorized transaction detected on your main checking account.,2022-05-17,false
+172,188,Warning,Your payment card is set to expire next month. Please update details.,2019-04-02,true
+173,119,Info,Your new financial statement is now available for download.,2018-06-18,true
+174,188,Info,Welcome to the new month! All budget limits have been successfully reset.,2017-04-10,true
+175,15,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2020-08-29,false
+176,173,Info,Feature update: You can now track transfers between your accounts.,2015-08-21,true
+177,146,Warning,High activity detected in your Travel spending this period.,2019-07-04,false
+178,99,Warning,Warning: Your trial subscription ends tomorrow.,2018-05-07,true
+179,28,Info,Welcome to the new month! All budget limits have been successfully reset.,2024-08-21,false
+180,42,Info,Feature update: You can now track transfers between your accounts.,2024-06-29,false
+181,12,Warning,Your payment card is set to expire next month. Please update details.,2017-12-30,false
+182,105,Alert,Budget Limit Exceeded for Groceries category this month.,2023-05-21,false
+183,90,Info,Feature update: You can now track transfers between your accounts.,2023-09-10,true
+184,109,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2023-05-19,false
+185,88,Info,Your new financial statement is now available for download.,2020-10-03,false
+186,197,Warning,Warning: Your trial subscription ends tomorrow.,2023-05-23,false
+187,192,Alert,Budget Limit Exceeded for Groceries category this month.,2025-01-28,false
+188,175,Info,Feature update: You can now track transfers between your accounts.,2024-05-13,false
+189,129,Info,Your transfer to a family member was completed successfully.,2016-02-05,false
+190,123,Warning,Warning: Your trial subscription ends tomorrow.,2015-12-20,true
+191,67,Info,Welcome to the new month! All budget limits have been successfully reset.,2021-05-26,true
+192,117,Info,A new income deposit has been successfully processed.,2016-05-04,false
+193,99,Warning,Reminder: Your Utilities payment is due this week.,2024-06-24,false
+194,149,Alert,Crucial bill payment failure: The subscription service payment was not processed.,2020-03-26,false
+195,11,Info,Your transfer to a family member was completed successfully.,2017-01-24,true
+196,32,Warning,Reminder: Your Utilities payment is due this week.,2022-10-13,false
+197,36,Warning,Your payment card is set to expire next month. Please update details.,2024-03-13,true
+198,98,Alert,ALERT: Account Balance Critically Low. Immediate fund transfer is required.,2018-11-24,false
+199,145,Info,Your transfer to a family member was completed successfully.,2020-02-05,false
+200,184,Warning,Your payment card is set to expire next month. Please update details.,2020-03-19,false
